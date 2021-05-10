@@ -9,5 +9,8 @@
         <module name="SpringIoc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringIoc" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

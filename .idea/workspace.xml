@@ -4,11 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4151eb5b-9cdd-4239-987c-13b65370be27" name="Default Changelist" comment="" />
+    <list default="true" id="4151eb5b-9cdd-4239-987c-13b65370be27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/aop/Around.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/aop/Aspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/ioc/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reecelin/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reecelin/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reecelin/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reecelin/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/Autowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/ioc/Autowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/ioc/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/ioc/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/annotation/ioc/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springframework/container/ClassPathXmlApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springframework/container/ClassPathXmlApplicationContext.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +47,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -28,16 +58,16 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\apache-maven-3.8.1\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.8.1" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/jdk8/src.zip!/java/lang/annotation/ElementType.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="ProjectId" id="1sHOX056PG6LfbqyWllKR84a25B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,14 +75,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_ANALYSIS_RESULTS_SPLIT_PROPORTION" value="0.5263158" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.48959607" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -93,14 +130,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/Idea_WorkSpace/customized_spring_ioc" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestSpring" />
+        <item itemvalue="Gradle.E:/Idea_WorkSpace/customized_spring_ioc" />
         <item itemvalue="Application.TestSpringIoc" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\reece\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4151eb5b-9cdd-4239-987c-13b65370be27" name="Default Changelist" comment="" />
@@ -114,21 +185,51 @@
       <workItem from="1620554993954" duration="130000" />
       <workItem from="1620555148587" duration="132000" />
       <workItem from="1620555338296" duration="596000" />
+      <workItem from="1620564246297" duration="6000" />
+      <workItem from="1620564290447" duration="1228000" />
+      <workItem from="1620566792679" duration="915000" />
+      <workItem from="1620567831683" duration="38000" />
+      <workItem from="1620568449976" duration="54000" />
+      <workItem from="1620568531211" duration="52000" />
+      <workItem from="1620568598070" duration="21000" />
+      <workItem from="1620568631451" duration="1040000" />
+      <workItem from="1620575262914" duration="727000" />
+      <workItem from="1620609342777" duration="1312000" />
+      <workItem from="1620610843162" duration="2144000" />
+      <workItem from="1620613279787" duration="216000" />
+      <workItem from="1620613502233" duration="3284000" />
+      <workItem from="1620618577034" duration="7867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/springframework/container/ClassPathXmlApplicationContext.java</url>
-          <line>221</line>
-          <option name="timeStamp" value="16" />
+          <line>267</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

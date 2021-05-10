@@ -2,7 +2,7 @@ package com.reecelin.service.impl;
 
 import com.reecelin.bean.Order;
 import com.reecelin.service.OrderService;
-import org.springframework.annotation.Service;
+import org.springframework.annotation.ioc.Service;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

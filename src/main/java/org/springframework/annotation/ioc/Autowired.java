@@ -1,10 +1,12 @@
-package org.springframework.annotation;
+package org.springframework.annotation.ioc;
+
 
 import java.lang.annotation.*;
 
 @Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.TYPE)
+@Target(ElementType.FIELD)
 @Documented
-public @interface Service {
+public @interface Autowired {
+
     String value() default "";
 }

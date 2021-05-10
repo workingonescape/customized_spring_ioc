@@ -1,4 +1,4 @@
-package org.springframework.annotation;
+package org.springframework.annotation.ioc;
 
 import java.lang.annotation.*;
 
@@ -10,7 +10,6 @@ import java.lang.annotation.*;
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
-@Documented
 public @interface Repository {
     String value() default "";
 }

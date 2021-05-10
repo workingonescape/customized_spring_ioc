@@ -2,8 +2,8 @@ package com.reecelin.controller;
 
 import com.reecelin.bean.Order;
 import com.reecelin.service.OrderService;
-import org.springframework.annotation.Autowired;
-import org.springframework.annotation.Controller;
+import org.springframework.annotation.ioc.Autowired;
+import org.springframework.annotation.ioc.Controller;
 
 import java.util.List;
 
