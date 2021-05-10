@@ -1,16 +1,14 @@
-package org.springframework.container;
+package springframework.container;
 
-import org.springframework.annotation.ioc.Autowired;
-import org.springframework.annotation.ioc.Component;
-import org.springframework.annotation.ioc.Controller;
-import org.springframework.annotation.ioc.Service;
-import org.springframework.xml.SpringConfigParser;
+import springframework.annotation.ioc.Autowired;
+import springframework.annotation.ioc.Component;
+import springframework.annotation.ioc.Controller;
+import springframework.annotation.ioc.Service;
+import springframework.xml.SpringConfigParser;
 
 import java.io.File;
-import java.lang.*;
 import java.lang.reflect.Field;
 import java.net.URL;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
